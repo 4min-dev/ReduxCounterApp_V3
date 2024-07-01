@@ -1,0 +1,4 @@
+export enum actionBankCounterTypes {
+    ASYNC_COUNTER_INCR = 'ASYNC_COUNTER_INCR',
+    ASYNC_COUNTER_DECR = 'ASYNC_COUNTER_DECR'
+}
