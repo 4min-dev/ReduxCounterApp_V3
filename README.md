@@ -24,6 +24,8 @@
 
 <hr/>
 
+<h1 align="center">EN | Redux counter App V3</h1>
+
 <h2 align="center">Technology stack:</h2>
 
 - CSS;
@@ -37,8 +39,6 @@
 - Redux-toolkit.
 
 <h2 align="center">Whats new?</h2>
-
-Redux-thunk теперь работает в совместимости с redux-toolkit.
 
 Added redux-toolkit support, createStore has been replaced by configureStore for a more modern and understandable approach to working with the store.
 
